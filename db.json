@@ -1,0 +1,13 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Joe",
+      "age": 2,
+      "city": "Dallas"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
